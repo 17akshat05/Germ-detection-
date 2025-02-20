@@ -38,16 +38,16 @@ Visit: **http://127.0.0.1:5000**
 ## 🤝 **Contributions & Feedback**  
 Open to suggestions! Feel free to **fork, star, and contribute**!  
 
-🔗 **GitHub Repository:** [https://github.com/ankit1068/Germ-Detection-System]
+🔗 **GitHub Repository:** [https://github.com/17akshat05/Germ-Detection-System]
 
 **Contact**
 
 For any questions or feedback, feel free to contact:
 
-Ankit kumar
+Akshat Jain 
 
-Email: your-ankitrajj1068@gmail.com
+Email: akshathitposting17@gmail.com
 
-GitHub: ankit1068
+GitHub: 17akshat05 
 
 
